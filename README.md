@@ -54,5 +54,6 @@ https://julialang.org/downloads/
 ### 2️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/seuusuario/julia-exercicios.git
+git clone https://github.com/rian144hz/julia-exercicios.git
 cd julia-exercicios
+
