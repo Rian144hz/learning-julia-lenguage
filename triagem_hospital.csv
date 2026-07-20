@@ -1,0 +1,11 @@
+paciente_id,tempo_espera,prioridade
+1,12,Pouco Urgente
+2,45,Urgência
+3,68,Emergência
+4,15,Pouco Urgente
+5,90,Emergência
+6,30,Urgência
+7,55,Urgência
+8,10,Pouco Urgente
+9,80,Emergência
+10,25,Pouco Urgente
