@@ -1,0 +1,5 @@
+setor,pacientes,capacidade_maxima,lotado
+Triagem,45,50,false
+Pediatria,20,30,false
+Emergência,60,50,true
+UTI,12,15,false
