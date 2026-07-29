@@ -17,3 +17,7 @@ println(atendimentos_df.quantidade);
 #maior que 40:
 df_maior_que_40 = atendimentos_df[atendimentos_df.quantidade .> 40, :]
 println(df_maior_que_40)
+
+#acima da média
+atendimentos_df.acima_media = atendimentos_df.quantidade .> 40
+println(atendimentos_df.acima_media)
